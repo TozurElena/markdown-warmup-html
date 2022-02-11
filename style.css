@@ -1,0 +1,38 @@
+p {
+  font-size: 18px;
+}
+header {
+  overflow: auto;
+}
+header p {
+  font-style: italic;
+}
+.header_img {
+  float: left;
+  margin-right: 30px;
+}
+a {
+  text-decoration: none;
+}
+.table_main {
+  border: inset 2px;
+  height: 150px;
+  width: 250px;
+}
+.td-centr {
+  text-align: center;
+}
+.gray {
+  background-color: rgb(163, 153, 153);
+}
+.list_hobbie {
+  font-size: 16px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  line-height: 130%;
+}
+.list_help {
+  font-size: medium;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  line-height: 130%;
+}
