@@ -4,8 +4,9 @@ p {
 header {
   overflow: auto;
 }
-header p {
+header q {
   font-style: italic;
+  font-size: 20px;
 }
 .header_img {
   float: left;
